@@ -109,7 +109,7 @@ a.p:hover span {
 
 <h1><span class="blue">本番動画</span></h1>
 <h1><span class="blue">「セサミストリートのテーマ」</span></h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WanObbA4WLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/WanObbA4WLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
 
